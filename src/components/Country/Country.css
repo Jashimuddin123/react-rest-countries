@@ -1,0 +1,14 @@
+
+.county{
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: rgb(73, 207, 207);
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.bg{
+    background-color: brown;
+    
+}
